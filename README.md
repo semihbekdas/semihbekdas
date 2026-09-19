@@ -93,12 +93,3 @@
 
 - **Kairu** — Community Relations Manager (Aug 2025 – Mar 2026). Coordinated AI / data-science training partnerships with university clubs; taught a hands-on MLflow experiment-tracking and model-versioning session at AIdea Project Camp.
 - **SistersLab** — AI Bootcamp Assistant, volunteer (May – Jul 2025). Reviewed participant assignments and mentored on machine learning, Python and NLP.
-
-## 📊 GitHub stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=semihbekdas&theme=github-dark-blue&hide_border=true&background=0d1117&date_format=j%20M%5B%20Y%5D">
-    <img src="https://streak-stats.demolab.com?user=semihbekdas&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Contribution streak">
-  </picture>
-</p>
