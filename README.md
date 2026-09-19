@@ -98,17 +98,6 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=semihbekdas&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true">
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=semihbekdas&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=semihbekdas&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8">
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=semihbekdas&layout=compact&hide_border=true&langs_count=8" alt="Top languages">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=semihbekdas&theme=github-dark-blue&hide_border=true&background=0d1117&date_format=j%20M%5B%20Y%5D">
     <img src="https://streak-stats.demolab.com?user=semihbekdas&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Contribution streak">
   </picture>
